@@ -1,0 +1,4 @@
+<http://www.example.com/merged_ontology> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> .
+<http://www.example.com/merged_ontology> <http://www.w3.org/2002/07/owl#imports> <http://www.orpha.net/ontology/ORDO_en_4.1.owl> .
+<http://www.example.com/merged_ontology> <http://www.w3.org/2002/07/owl#imports> <http://purl.obolibrary.org/obo/doid/subsets/DO_rare_slim.owl> .
+

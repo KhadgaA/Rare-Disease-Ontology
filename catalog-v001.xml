@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1674371187605" name="duplicate:http://purl.obolibrary.org/obo/doid.owl" uri="doid.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1674371187605" name="duplicate:http://purl.obolibrary.org/obo/doid.owl" uri="doid_rdf.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1674371187605" name="http://purl.obolibrary.org/obo/doid/doid-merged.owl" uri="doid-merged.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1674371187605" name="http://www.example.com/merged_ontology" uri="merged_ontology.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1674371187605" name="http://www.example.com/test_merged_v1" uri="merged_test.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1674371187605" name="http://www.orpha.net/ontology/ORDO_en_3.1.owl" uri="ordo.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1674371187605" name="http://www.orpha.net/ontology/ORDO_en_4.1.owl" uri="ordo_test.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1674371187605" name="http://www.semanticweb.org/khadgaa/ontologies/2023/0/bacteria" uri="bacteri.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1674371187605" name="http://www.w3.org/2002/07/owl" uri="ordo_orphanet_v4.2.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1674371187605" name="shadowed:http://www.example.com/merged_ontology" uri=".ipynb_checkpoints/merged_ontology-checkpoint.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1674371187605" name="shadowed:http://www.orpha.net/ontology/ORDO_en_3.1.owl" uri=".ipynb_checkpoints/ordo-checkpoint.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1674371187605" name="shadowed:http://www.orpha.net/ontology/ORDO_en_4.1.owl" uri=".ipynb_checkpoints/ordo_test-checkpoint.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1674371187605" name="shadowed:http://www.semanticweb.org/khadgaa/ontologies/2023/0/bacteria" uri=".ipynb_checkpoints/bacteri-checkpoint.owl"/>
+    </group>
+</catalog>
